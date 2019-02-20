@@ -9,6 +9,8 @@ namespace jenkins构建项目测试
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
+            Console.ReadKey();
         }
     }
 }
