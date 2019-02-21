@@ -1,0 +1,13 @@
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\bin\Release\jenkins构建项目测试.exe.manifest
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\bin\Release\jenkins构建项目测试.application
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\bin\Release\jenkins构建项目测试.exe
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\bin\Release\jenkins构建项目测试.pdb
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\obj\Release\jenkins构建项目测试.csproj.CoreCompileInputs.cache
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\obj\Release\jenkins构建项目测试.exe.manifest
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\obj\Release\jenkins构建项目测试.application
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\obj\Release\jenkins构建项目测试.exe
+F:\MyProject\JenkinsTest\jenkins构建项目测试\jenkins构建项目测试\obj\Release\jenkins构建项目测试.pdb
+C:\Users\夜莫白\Desktop\jenkinsPublish\jenkins构建项目测试.exe.manifest
+C:\Users\夜莫白\Desktop\jenkinsPublish\jenkins构建项目测试.application
+C:\Users\夜莫白\Desktop\jenkinsPublish\jenkins构建项目测试.exe
+C:\Users\夜莫白\Desktop\jenkinsPublish\jenkins构建项目测试.pdb
