@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("jenkins构建项目测试")]
+[assembly: AssemblyTitle("Jenkins构建项目测试")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("jenkins构建项目测试")]
+[assembly: AssemblyProduct("Jenkins构建项目测试")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("0c9682fb-4dd2-4071-9172-1056a3da8ca9")]
+[assembly: Guid("fb24e604-71b5-48a1-b2f1-66fc44614765")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
